@@ -19,4 +19,4 @@ function findAndModifyPerson(person, name, age) {
 }
 
 const result = findAndModifyPerson(people, "John", 20);
-console.log(result);
+console.log(people);
